@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Bon dia, com estas? Soc el Daniel
+
 ```{r}
 install.packages("tidyverse")
 install.packages(c("nycflights13","gapmnder", "Lahman"))
