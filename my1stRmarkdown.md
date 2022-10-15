@@ -33,4 +33,7 @@ Bon dia, com estas? Soc el Daniel
 ```
 ## [1] 4
 ```
+mpg
+ggplot(data=mpg)+ 
+  geom_point(mapping = aes(x = displ, y = hwy))
 
